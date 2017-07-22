@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background-image: url("../images/memphis-colorful.png");
+}
+
+.pink{
+	width:30%;
+}
+.blue,
+.green,
+.white{
+	width:20%;
+}
+
+#total{
+	width: 30%;
+	padding:20%;
+	border: 5px solid black;
+	display: inline-block;
+}
+
+#result{
+	display: inline-block;
+	font-size:large;
+	text-align: center;
+}
